@@ -6,9 +6,9 @@ I'm a graduate from Makers Academy who is passionate about learning more about s
 Recent projects
 ---------------
 
-| [Fhellow] | [Chitter] | [Advanced Student Directory] |
+| [Fhellow] | [Chitter] | [Instaharam] |
 |:--------------:|:------------:|:-------------:|
-| This was my final project. Working in a team of four, we created a location-based social network for connecting freelancers and remote workers. <br> Technologies used include: Ruby on Rails, Bootstrap, GMaps, Javascript, jQuery.Rspec, Capybara and Poltergeist were used for the testing.  <br> [View Fhellow] | This was one of the challenges given during the course. I created a clone of the webapp twitter. My iteration allows users to sign up, Tweet including hashtags which are rendered as clickable links, and follow other users. <br> Technologies used include: Ruby, Sinatra, Postgres, Bcrypt, HAML, CSS. Rspec and Capybara were used for the testing.  <br>| Having realised I had learned a lot during the later stages of the course, I decided to, as a personal challenge, remake the first task - the student directory, however this time the idea was to use better practices such as TDD and Object Oriented Programming, as well as some meta-programming. <br> Technologies: Ruby, Rspec for testing <br>.
+| This was my final project. Working in a team of four, we created a location-based social network for connecting freelancers and remote workers. <br> Technologies used include: Ruby on Rails, Bootstrap, GMaps, Javascript, jQuery.Rspec, Capybara and Poltergeist were used for the testing.  <br> [View Fhellow] | This was one of the challenges given during the course. I created a clone of the webapp twitter. My iteration allows users to sign up, Tweet including hashtags which are rendered as clickable links, and follow other users. <br> Technologies used include: Ruby, Sinatra, Postgres, Bcrypt, HAML, CSS. Rspec and Capybara were used for the testing.  <br> | This was another challenge project created during the course as an example rails app. <br> Technologies used include: Rails coffeescript, jquery and css with foundation. Rspec and Capybara were used for the testing.<br> [View Instaharam]
 
 
 Web development
@@ -136,8 +136,8 @@ I am a British Citizen looking to work in London. Would also consider working in
 
 [Fhellow]: https://github.com/jjromeo/fhellow
 [Chitter]: https://github.com/jjromeo/chitter
-[Advanced Student Directory]: https://github.com/jjromeo/advanced-student-directory
-
+[Instaharam]: https://github.com/jjromeo/instaharam
+[View Instaharam]: https://instaharam.herokuapp.com
 [View Fhellow]: http://fhellow.herokuapp.com/
 [View Chitter]: https://github.com/jjromeo/chitter
 
