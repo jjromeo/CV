@@ -148,6 +148,6 @@ I am a British Citizen looking to work in London. Would also consider working in
 [Emap]: http://http://www.emap.com/
 
 [jerome.pratt@outlook.com]: mailto:jerome.pratt@outlook.com
-[LinkedIn]: https://www.linkedin.com/in/michballard
-[Github]: https://github.com/michballard
+[LinkedIn]: https://www.linkedin.com/in/jeromepratt
+[Github]: https://github.com/jjromeo
 [Yo]: http://yohort.herokuapp.com/
